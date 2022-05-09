@@ -11781,3 +11781,7 @@ button a {
 button a:hover {
   color:blue;
 }
+
+a.packageHover:hover {
+  color: #0dcaf0;
+}
